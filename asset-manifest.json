@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kshivakumar27/Checklist/static/css/main.9adf349c.chunk.css",
+    "main.js": "/kshivakumar27/Checklist/static/js/main.050a6c41.chunk.js",
+    "main.js.map": "/kshivakumar27/Checklist/static/js/main.050a6c41.chunk.js.map",
+    "runtime-main.js": "/kshivakumar27/Checklist/static/js/runtime-main.adfa02ad.js",
+    "runtime-main.js.map": "/kshivakumar27/Checklist/static/js/runtime-main.adfa02ad.js.map",
+    "static/js/2.6f937e09.chunk.js": "/kshivakumar27/Checklist/static/js/2.6f937e09.chunk.js",
+    "static/js/2.6f937e09.chunk.js.map": "/kshivakumar27/Checklist/static/js/2.6f937e09.chunk.js.map",
+    "static/js/3.210218c3.chunk.js": "/kshivakumar27/Checklist/static/js/3.210218c3.chunk.js",
+    "static/js/3.210218c3.chunk.js.map": "/kshivakumar27/Checklist/static/js/3.210218c3.chunk.js.map",
+    "index.html": "/kshivakumar27/Checklist/index.html",
+    "static/css/main.9adf349c.chunk.css.map": "/kshivakumar27/Checklist/static/css/main.9adf349c.chunk.css.map",
+    "static/js/2.6f937e09.chunk.js.LICENSE.txt": "/kshivakumar27/Checklist/static/js/2.6f937e09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adfa02ad.js",
+    "static/js/2.6f937e09.chunk.js",
+    "static/css/main.9adf349c.chunk.css",
+    "static/js/main.050a6c41.chunk.js"
+  ]
+}
