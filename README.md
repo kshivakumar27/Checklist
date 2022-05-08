@@ -1,6 +1,5 @@
 # Demo
-
-https://github.com/kshivakumar27/Checklist
+http://kshivakumar27.github.io/Checklist
 
 ### `yarn start`
 
